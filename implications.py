@@ -1,5 +1,5 @@
 """
-Pliki powstały przy pracy Matusiewicz, Z., & Mroczek, T. (2025). Attribute reduction method based on fuzzy relational equations and inequalities. International Journal of Approximate Reasoning, 178, 109355.
+The project was created with the work of Matusiewicz, Z., & Mroczek, T. (2025). Attribute reduction method based on fuzzy relational equations and inequalities. International Journal of Approximate Reasoning, 178, 109355.
 """
 def i_T_Y(a,b):
     if a*b>0:
