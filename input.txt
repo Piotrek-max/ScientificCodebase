@@ -11,5 +11,5 @@ Godela
 operations.py
 # OPERATION FUNCTION
 T_F
-# VECTOR OF PERCETAGES p1, p2, ... TO REDUCE
-5, 5, 5, 5, 5, 5, 5
+# VECTOR OF PERCETAGES p1, p2, ... TO REDUCE 0, 1, 2, 1, 2, 0 
+0,0,0,0,0,1,0,0,0,0,2,15,0
